@@ -3,3 +3,5 @@ string.split("")
 reversed=[]
 string.each {|i| reversed.unshift(i)}
 end
+reversed
+end
